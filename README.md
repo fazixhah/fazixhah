@@ -1,3 +1,4 @@
+<h1> 👋 Hi, I’m @fazixhah </h1> 
 - 👋 Hi, I’m @fazixhah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Learning MERN stack development
