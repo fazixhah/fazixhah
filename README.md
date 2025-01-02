@@ -6,7 +6,7 @@
 
 - 📫 reach me at fazishah08@gmail.com
 
-- 📫 <a target="blank" linkedin.com/in/faizan-h-shah>
+- 📫 linkedin.com/in/faizan-h-shah>
 <!---- 💞️ I’m looking to collaborate on ...
 - 👋 Hi, I’m @fazixhah 
 --->
