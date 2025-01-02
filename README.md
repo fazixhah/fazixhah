@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @fazixhah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently Learning MERN stack development
-- 📫 reach me at linkedin.com/in/faizan-h-shah
+- 📫 reach me at fazishah08@gmail.com
+- 📫 linkedin.com/in/faizan-h-shah
 <!---- 💞️ I’m looking to collaborate on ...--->
 
 <!---
