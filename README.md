@@ -1,8 +1,12 @@
-<h1> 👋 Hi, I’m @fazixhah </h1> 
-- 👋 Hi, I’m @fazixhah
+<h1>          👋 Hi, I’m @fazixhah      </h1> 
+- 👋 Hi, I’m @fazixhah 
+<br>
 - 👀 I’m interested in Web Development
+<br>
 - 🌱 I’m currently Learning MERN stack development
+
 - 📫 reach me at fazishah08@gmail.com
+
 - 📫 linkedin.com/in/faizan-h-shah
 <!---- 💞️ I’m looking to collaborate on ...--->
 
