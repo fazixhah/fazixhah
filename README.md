@@ -3,6 +3,7 @@
 - 👀 I’m interested in Web Development
 <br>
 - 🌱 I’m currently Learning MERN stack development
+<br>
 
 - 📫 reach me at fazishah08@gmail.com
 - 📫 linkedin.com/in/faizan-h-shah
