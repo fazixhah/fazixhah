@@ -1,4 +1,4 @@
-<h1 style="text-align:center"> 👋 Hi, I’m @fazixhah      </h1> 
+<h1> 👋 Hi, I’m @fazixhah      </h1> 
 <br>
 - 👀 I’m interested in Web Development
 <br>
