@@ -1,4 +1,4 @@
-<h1>          👋 Hi, I’m @fazixhah      </h1> 
+<h1 style="text-align:center"> 👋 Hi, I’m @fazixhah      </h1> 
 <br>
 - 👀 I’m interested in Web Development
 <br>
@@ -8,9 +8,9 @@
 
 - 📫 linkedin.com/in/faizan-h-shah>
 <!---- 💞️ I’m looking to collaborate on ...
-- 👋 Hi, I’m @fazixhah 
 --->
 <!---
+- 👋 Hi, I’m @fazixhah 
 fazixhah/fazixhah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
