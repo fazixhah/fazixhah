@@ -5,11 +5,12 @@
 - 🌱 I’m currently Learning MERN stack development
 
 - 📫 reach me at fazishah08@gmail.com
-<a href="www.linkedin.com/in/faizan-h-shah">
-- 📫 linkedin.com/in/faizan-h-shah
+<a href="www.linkedin.com/in/faizan-h-shah" target="_blank">
+- linkedin.com/in/faizan-h-shah
 </a>
 
 <!---- 💞️ I’m looking to collaborate on ...
+- 📫 linkedin.com/in/faizan-h-shah
 --->
 <!---
 - 👋 Hi, I’m @fazixhah 
