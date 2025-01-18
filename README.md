@@ -6,7 +6,8 @@
 <br>
 
 - 📫 reach me at fazishah08@gmail.com
-- 📫 linkedin.com/in/faizan-h-shah
+- 📫 LinkedIn: <a href:'linkedin.com/in/faizan-h-shah'> Hello </a>
+- >linkedin.com/in/faizan-h-shah
 
 
 <!---- 💞️ I’m looking to collaborate on ...
